@@ -24,3 +24,7 @@ data.filter(bbox, date, limit)
 
 More information about STAC can be found [here](https://stacspec.org/).
 More features will be added and announced in the future.
+
+### DISCLAIMER
+#### This package is not affiliated with the STAC project in any way. This package is not endorsed by the STAC project. This package is not supported by the STAC project.
+#### This is a beta version of the package. The package is still under development and may not be stable. Use at your own risk.
