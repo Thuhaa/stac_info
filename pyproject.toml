@@ -9,7 +9,7 @@ authors = [
 ]
 version = "0.0.4"
 description = "A Python package for STAC info"
-readme = "README.md"
+readme = "README.rst"
 requires-python = ">=3.6"
 classifiers = [
     "Development Status :: 3 - Alpha",
